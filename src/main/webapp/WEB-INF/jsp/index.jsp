@@ -9,11 +9,21 @@
     </head>
 
     <body>
-        <p>Hello! This is the default welcome page for a Spring Web MVC project.</p>
-        <p><i>To display a different welcome page for this project, modify</i>
-            <tt>index.jsp</tt> <i>, or create your own welcome page then change
-                the redirection in</i> <tt>redirect.jsp</tt> <i>to point to the new
-                welcome page and also update the welcome-file setting in</i>
-            <tt>web.xml</tt>.</p>
+        <p>Hello! FA-C </p>
+        <p>
+            <i> ==> Group ID : com.itako21</i>
+            <i> ==> Artifact ID : vitrine21</i>
+            <i> ==> Version : 1.0-SNAPSHOT</i>
+            <i> ==> packagin : war</i>
+            <i> ==> Name : vitrine21-1.0-SNAPSHOT</i>
+            <i> ==> Project Folder : C:\Users\hp\Documents\NetBeansProjects\vitrine21</i>
+            <i> ==> Source Folder : C:\Users\hp\Documents\NetBeansProjects\vitrine21\src\main\java</i>
+            <i> ==> Used Frameworks : Spring Web MVC</i>
+            <i> ==> Spring Library : Spring Framework 4.3.29</i> 
+            <i> ==> Java Platform : JDK 1.8 </i> 
+            
+            
+            
+        </p>
     </body>
 </html>
