@@ -22,8 +22,6 @@
             <i> ==> Spring Library : Spring Framework 4.3.29</i> 
             <i> ==> Java Platform : JDK 1.8 </i> 
             
-            
-            
         </p>
     </body>
 </html>
