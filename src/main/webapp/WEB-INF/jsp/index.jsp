@@ -11,17 +11,16 @@
     <body>
         <p>Hello! FA-C </p>
         <p>
-            <i> ==> Group ID : com.itako21</i>
-            <i> ==> Artifact ID : vitrine21</i>
-            <i> ==> Version : 1.0-SNAPSHOT</i>
-            <i> ==> packagin : war</i>
-            <i> ==> Name : vitrine21-1.0-SNAPSHOT</i>
-            <i> ==> Project Folder : C:\Users\hp\Documents\NetBeansProjects\vitrine21</i>
-            <i> ==> Source Folder : C:\Users\hp\Documents\NetBeansProjects\vitrine21\src\main\java</i>
-            <i> ==> Used Frameworks : Spring Web MVC</i>
-            <i> ==> Spring Library : Spring Framework 4.3.29</i> 
-            <i> ==> Java Platform : JDK 1.8 </i> 
-            
+            </BR>==> Group ID : com.itako21
+            </BR>==> Artifact ID : vitrine21
+            </BR>==> Version : 1.0-SNAPSHOT
+            </BR>==> packagin : war
+            </BR>==> Name : vitrine21-1.0-SNAPSHOT
+            </BR>==> Project Folder : C:\Users\hp\Documents\NetBeansProjects\vitrine21
+            </BR>==> Source Folder : C:\Users\hp\Documents\NetBeansProjects\vitrine21\src\main\java
+            </BR>==> Used Frameworks : Spring Web MVC
+            </BR>==> Spring Library : Spring Framework 4.3.2 
+            </BR>==> Java Platform : JDK 1.8 
         </p>
     </body>
 </html>
