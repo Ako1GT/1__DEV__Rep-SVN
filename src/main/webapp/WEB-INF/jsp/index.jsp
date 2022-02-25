@@ -23,5 +23,8 @@
             </BR>==> Java Platform : JDK 1.8 
         
         </p>
+        
+        <p> Partie SVN - GIT - 2 user - OK </p>
+        
     </body>
 </html>
