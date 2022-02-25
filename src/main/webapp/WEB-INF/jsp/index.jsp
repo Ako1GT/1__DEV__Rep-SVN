@@ -25,6 +25,6 @@
         </p>
         
         <p> Partie SVN - GIT - 2 user - OK </p>
-        
+        <p> NB -- GIT -- Push -- OK </p>
     </body>
 </html>
