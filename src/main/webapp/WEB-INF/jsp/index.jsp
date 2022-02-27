@@ -24,7 +24,19 @@
         
         </p>
         
+        <p> Commit............................</p>
         <p> Partie SVN - GIT - 2 user - OK </p>
         <p> NB -- GIT -- Push -- OK </p>
+        
+        
+        <p> Code............................</p>
+        <h5> Canyou guess it ?</h5>
+        <form action="response.xhtml">
+            <input type="text" size="2" maxlength="2"/>
+            <input type="submit" value="submit"/>
+        </form>
+        
+        
+        
     </body>
 </html>
