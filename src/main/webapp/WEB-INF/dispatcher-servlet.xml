@@ -32,5 +32,11 @@
     <bean name="indexController"
           class="org.springframework.web.servlet.mvc.ParameterizableViewController"
           p:viewName="index" />
-
+    
+    
+    <!--
+    <bean class="com.itako21.vitrine21.controllers.HelloController" p:helloService-ref="HelloServ"/>
+    <bean class="org.springframework.web.servlet.mvc.support.ControllerClassNameHandlerMapping"/>
+    -->
+    
 </beans>

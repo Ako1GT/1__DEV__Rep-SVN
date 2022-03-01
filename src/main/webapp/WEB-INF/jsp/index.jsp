@@ -10,6 +10,15 @@
 
     <body>
         <p>Hello! FA-C </p>
+        
+        <p> Lien 1 - loginJsp.JSP.........................</p>
+        <a href="LoginJsp.jsp" > F1 - se connecter </a>
+
+        <p> lien 2 - ..........................</p>
+        <a href="" >F2 - register </a>
+
+        
+        <p> Commit............................</p>
         <p>
             </BR>==> Group ID : com.itako21
             </BR>==> Artifact ID : vitrine21
@@ -23,19 +32,9 @@
             </BR>==> Java Platform : JDK 1.8 
         
         </p>
-        
-        <p> Commit............................</p>
+                
         <p> Partie SVN - GIT - 2 user - OK </p>
         <p> NB -- GIT -- Push -- OK </p>
-        
-        
-        <p> Code............................</p>
-        <h5> Canyou guess it ?</h5>
-        <form action="response.xhtml">
-            <input type="text" size="2" maxlength="2"/>
-            <input type="submit" value="submit"/>
-        </form>
-        
         
         
     </body>

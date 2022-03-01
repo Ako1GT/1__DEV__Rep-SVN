@@ -112,6 +112,7 @@
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
             <version>4.3.29.RELEASE</version>
+            <type>jar</type>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
@@ -132,6 +133,26 @@
             <groupId>org.glassfish.web</groupId>
             <artifactId>javax.servlet.jsp.jstl</artifactId>
             <version>1.2.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.tinygroup</groupId>
+            <artifactId>org.tinygroup.loginRegistered</artifactId>
+            <version>2.2.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.integration</groupId>
+            <artifactId>spring-integration-jdbc</artifactId>
+            <version>2.2.1.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>org.jasig.springframework</groupId>
+            <artifactId>spring-webmvc-portlet-contrib</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.jboss.spring.archetypes</groupId>
+            <artifactId>spring-mvc-webapp</artifactId>
+            <version>1.0.0.CR6</version>
         </dependency>
         <dependency>
             <groupId>javax</groupId>

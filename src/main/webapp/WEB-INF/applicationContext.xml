@@ -42,9 +42,9 @@
     
     -->
 
-
-
-
+    <!--
+    <bean name="helloS" class="com.itako21.vitrine21.services.HelloServ" />
+    -->
 
 
 
